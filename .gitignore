@@ -1,0 +1,39 @@
+# python
+__pycache__/
+
+# python setuptools
+/MANIFEST
+/build
+/build/
+/dist
+/dist/
+/*.egg-info/
+
+# python coverage
+/.coverage
+/htmlcov
+/htmlcov/
+
+# local environment
+/.env
+
+# vim
+*~
+*.swp
+
+# rope
+.ropeproject/
+
+# PyCharm
+.idea/
+
+# test data
+/testdata
+/testdata/
+/output
+*.db
+
+*.DS_Store
+*.icloud
+
+venv/
